@@ -1,5 +1,6 @@
 # Refonte d'un site pour un client fictif réalisé en équipe: Damien Carli, Adrien Maillard, Mao Mater, Emmanuelle Mendels.
 
+## lien vers video demo: https://www.loom.com/share/f2ef05c3d2334e6284d46044bb5a04b6
 
 # Simple MVC
 
