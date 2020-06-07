@@ -1,4 +1,5 @@
-#Refonte d'un site pour un client fictif réalisé en équipe: Damien Carli, Adrien Maillard, Mao Mater, Emmanuelle Mendels.
+# Refonte d'un site pour un client fictif réalisé en équipe: Damien Carli, Adrien Maillard, Mao Mater, Emmanuelle Mendels.
+
 
 # Simple MVC
 
